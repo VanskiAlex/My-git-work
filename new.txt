@@ -1,1 +1,3 @@
 Same text
+new text
+bla bla bla
